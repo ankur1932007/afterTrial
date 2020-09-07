@@ -4,6 +4,9 @@ body {
   font-family: "Gentium Book Basic", serif;
   color: #40514e;
 }
+topnav{
+  color:#000000;
+}
 h1 {
   margin: 2.6rem auto 0;
   font-size: 6.25rem; /* 1em=100%  16 px    ....  (100px),  rem is used so that font size isnot affected by changes in the parent */
